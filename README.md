@@ -24,8 +24,8 @@ Grama Khata Micro Finance is an Android application developed to support rural f
 3. Sync Gradle
 4. Run the project
 
-##Developed By
+## Developed By
 Jeevan M P
 
-##Internship
+## Internship
 MindMatrixEd – Android Application Development using Generative AI
