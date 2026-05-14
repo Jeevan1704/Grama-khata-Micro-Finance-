@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಗ್ರಾಮ-ಖಾತಾ</string>
+    <string name="daily_report">ದೈನಂದಿನ ವರದಿ</string>
+    <string name="add_customer">ಗ್ರಾಹಕರನ್ನು ಸೇರಿಸಿ</string>
+    <string name="new_customer">ಹೊಸ ಗ್ರಾಹಕರು</string>
+    <string name="no_customers_yet">ಇನ್ನೂ ಯಾವುದೇ ಗ್ರಾಹಕರಿಲ್ಲ. ಪ್ರಾರಂಭಿಸಲು ಒಬ್ಬರನ್ನು ಸೇರಿಸಿ!</string>
+    <string name="customer_name">ಗ್ರಾಹಕರ ಹೆಸರು</string>
+    <string name="add">ಸೇರಿಸಿ</string>
+    <string name="cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="due">ಬಾಕಿ ಇದೆ</string>
+    <string name="advance">ಮುಂಗಡ</string>
+    
+    <string name="customer_details">ಗ್ರಾಹಕರ ವಿವರಗಳು</string>
+    <string name="delete_customer">ಗ್ರಾಹಕರನ್ನು ಅಳಿಸಿ</string>
+    <string name="send_reminder">ಜ್ಞಾಪನೆ ಕಳುಹಿಸಿ</string>
+    <string name="give_credit">+ ಕೊಡಿ (ಸಾಲ)</string>
+    <string name="take_payment">- ತೆಗೆದುಕೊಳ್ಳಿ (ಪಾವತಿ)</string>
+    <string name="net_due">ನಿವ್ವಳ ಬಾಕಿ</string>
+    <string name="customer_owes_you">ಗ್ರಾಹಕರು ನಿಮಗೆ ನೀಡಬೇಕು</string>
+    <string name="you_owe_customer">ನೀವು ಗ್ರಾಹಕರಿಗೆ ನೀಡಬೇಕು</string>
+    <string name="settled">ಚುಕ್ತಾ ಆಗಿದೆ</string>
+    <string name="transaction_history">ವಹಿವಾಟಿನ ಇತಿಹಾಸ</string>
+    <string name="give_credit_dialog">ಸಾಲ ಕೊಡಿ</string>
+    <string name="take_payment_dialog">ಪಾವತಿ ತೆಗೆದುಕೊಳ್ಳಿ</string>
+    <string name="amount_rupees">ಮೊತ್ತ (₹)</string>
+    <string name="save">ಉಳಿಸಿ</string>
+    <string name="delete_customer_confirmation">ನೀವು ಖಂಡಿತವಾಗಿ ಈ ಗ್ರಾಹಕರನ್ನು ಅಳಿಸಲು ಬಯಸುವಿರಾ? ಈ ಕ್ರಿಯೆಯನ್ನು ರದ್ದುಗೊಳಿಸಲಾಗುವುದಿಲ್ಲ.</string>
+    <string name="delete">ಅಳಿಸಿ</string>
+    <string name="credit_given">ಸಾಲ ನೀಡಲಾಗಿದೆ</string>
+    <string name="payment_received">ಪಾವತಿ ಸ್ವೀಕರಿಸಲಾಗಿದೆ</string>
+    <string name="reminder_message">ನಮಸ್ಕಾರ, ಗ್ರಾಮ-ಖಾತಾ ಅಂಗಡಿಯಲ್ಲಿ ನಿಮ್ಮ ಬಾಕಿ ₹%s.</string>
+    
+    <string name="report_title">ದೈನಂದಿನ ಸಂಗ್ರಹಣೆ ವರದಿ</string>
+    <string name="report_total_amount">ಒಟ್ಟು ಮೊತ್ತ (Total)</string>
+    <string name="report_no_collections">ಇಂದು ಯಾವುದೇ ಸಂಗ್ರಹಣೆಗಳಿಲ್ಲ.</string>
+    
+    <!-- Profile Screen -->
+    <string name="profile">ಪ್ರೊಫೈಲ್</string>
+    <string name="tap_to_change_photo">ಫೋಟೋ ಬದಲಾಯಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+    <string name="shop_name">ಅಂಗಡಿಯ ಹೆಸರು</string>
+    <string name="owner_name">ಮಾಲೀಕರ ಹೆಸರು</string>
+    <string name="phone_number">ಫೋನ್ ಸಂಖ್ಯೆ</string>
+</resources>
