@@ -17,21 +17,6 @@ Grama Khata Micro Finance is an Android application developed to support rural f
 - Firebase Authentication
 - Firebase Realtime Database
 - MVVM Architecture
-  
-## Project Screenshots
-
-### Login Screen
-![Login Screen](screenshots/profile.jpg)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.jpg)
-
-### Loan Details
-![Loan Details](screenshots/sms.jpg)
-
-### collection report
-![Loan Details](screenshots/collection.jpg)
-
 
 ## Installation
 1. Clone the repository
